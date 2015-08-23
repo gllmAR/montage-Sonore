@@ -3,8 +3,8 @@ title: Montage Sonore
 email: gllm@artificiel.org
 description: > # this means to ignore newlines until "baseurl:"
   Montage sonore et manipulations audio digitale
-baseurl: "/mtgSonore" # the subpath of your site, e.g. /blog/
-url: "http://gllmar.github.io/" # the base hostname & protocol for your site
+baseurl: /mtgSonore # the subpath of your site, e.g. /blog/
+url: http://gllmar.github.io/ # the base hostname & protocol for your site
 twitter_username: arsenog
 github_username:  gllmar
 
