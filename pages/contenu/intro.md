@@ -14,39 +14,42 @@ subtitle : Introduction aux principes acoustique du son
 Sons et perception du son:
 
 * Intensité sonore : volume perçu en décibel
+![decibels](../img/son-decibel.jpg)
 
-<p>  <img src="../img/son-decibel.jpg" alt="reaperVersions" width="66%" ></p>
-
-* Amplitude :
+* Amplitude : relation avec le volume (gain)
 
 * Fréquences  (Hauteur du son)
 
-<img src="../img/son-frquence-ultrason-et-infrason.jpg" alt="reaperVersions" width="66%" >
+![frequence](../img/son-frquence-ultrason-et-infrason.jpg)
 
 * hauteur (pitch)
 
-	* 440HZ<br>
+	* 440HZ
+<br>
 <audio controls loop>
     <source src="../mp3/440.mp3" type="audio/mpeg">
     <source src="../ogg/440.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
-	* 880HZ<br>
+	* 880HZ
+<br>
 <audio controls loop>
     <source src="../mp3/880.mp3" type="audio/mpeg">
     <source src="../ogg/880.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
-	* 1760HZ<br>
+	* 1760HZ
+<br>
 <audio controls loop>
     <source src="../mp3/1760.mp3" type="audio/mpeg">
     <source src="../ogg/1760.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
-	* Sommation des trois ondes <br>
+	* Sommation des trois ondes
+<br>
 <audio controls loop>
     <source src="../mp3/440+880+1760.mp3" type="audio/mpeg">
     <source src="../ogg/440+880+1760.ogg" type="audio/ogg">
