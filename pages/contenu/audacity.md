@@ -1,7 +1,7 @@
 ---
 layout : page  
 subtitle : Edition multipiste avec Audacity
-exclude_from_nav: true  
+
 ---
 
 ### todo

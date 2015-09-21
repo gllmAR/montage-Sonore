@@ -1,21 +1,44 @@
 ---
 layout : page  
-subtitle : son numérique
+subtitle : Traitement numérique du son
 
 ---
 
-* L'échantillonnage
+* Échantillonnage
 	* Fréquence d'échantillonnage  (hertz)
 	* Profondeur de l'échantillonne (bits)
-![échantillonage](../img/Echantillonnages_sinus.png)
-
-
+![échantillonnage](../img/Echantillonnages_sinus.png)
  [Fréquence d'échantillonnage : Wikipedia ](http://fr.wikipedia.org/wiki/Fréquence_d'échantillonnage)
 
 
 
+* Encodage/décodage :
+Écrire et lire le résultat de l'échantillonnage dans un fichier numérique
 
-## [Traitement numérique du son</span></h2>](id:daw)
+	* Non compressés (uncompressed) : [wav, aiff, ]
+		* Avantage : contiens toute l'information sonore, grande compatibilité
+		* Désavantage : lourd  
+
+	* Formats compressés avec perte: [Mp3, M4a, wma, ogg]
+		* Avantage : léger,  facilement échangeable, qualité sonore relativement bonne par rapport au poids
+		* Désavantage : Perte de qualité sonore, incompatible avec certains logiciels d'édition
+
+	* Formats compressés sans Perte: [flac, ape, wv]
+		* Avantage : Très bon rapport qualité /poids,  théoriquement sans perte
+		* Désavantage : n'est pas nativement compatible avec tout.   
+
+
+
+* Aquérir le son
+	* Enregistrer
+		* Carte de son avec entrée
+		* Enregisteur autonome
+
+	* importer une source existante  
+	* de YouTube?
+		* http://www.youtube-mp3.org
+
+
 ### Choisir un outil pour ses fonctionnalités
 * Enregistrer du son
 * Importer des sons
@@ -31,13 +54,16 @@ subtitle : son numérique
 * Avoir une interface navigable
 * Possibilité de travailler synchro avec de la vidéo
 
-Listes de Station de travail audionumérique <a href="http://en.wikipedia.org/wiki/Digital_Audio_Workstation">voir DAW (Wikipedia)</a>
+### Sélections d'outils
+Convertisseur de format audio (et vidéo)
+- adapter
+https://www.macroplant.com/adapter/
 
-Notamment :
+Logiciel d'éditions d'échantillon
+- Ocenaudio
 
-* Protool
-* Logic
-* Digital performer
-* Reaper
-* Garage Band
-* Ardour
+Logiciel d'édition multipiste libre
+- Audacity
+
+Logiciel d'édition multipiste commerciale
+- Reaper

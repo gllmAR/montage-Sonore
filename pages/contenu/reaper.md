@@ -9,7 +9,7 @@ Pourquoi choisir REAPER ?:
 * léger (à peine quelque mega octets)
 * compatible (Mac et pc)
 * flexible
-* utilisation personnelle gratuite relativement «infini»...
+* utilisation personnelle gratuite relativement «infinie»...
 
 <p>Site web : <a href="http://www.cockos.com/reaper/">http://www.cockos.com/reaper/</a></p>
 
@@ -36,11 +36,11 @@ Créer une nouvelle piste
 </a>
 
 
-* ou : En double cliquant dans un espace vacant sur le fenêtre de mix
+* ou : En double cliquant dans un espace vacant sur la fenêtre de mix
 
 * ou : En double cliquant dans un espace vacant sur la fenêtre à gauche de la timeline
 
-* Configuration : entré et sortie sonore ( notion de fréquence d'échantillonnage)
+* Configuration : entrée et sortie sonore ( notion de fréquence d'échantillonnage)
 *
 * Créer une nouvelle piste (différence entre audio et midi)
 
@@ -53,11 +53,11 @@ Importer du son (format de compression sonore (mp3 aiff wav))
 * Glisser-déposer :
 * Menu **Insert**/**Medias Files**
 
-## [Opération utiles](id:fx)
+## [Opérations utiles](id:fx)
 
 * déplacer,
 * couper,
-* trimmer,  
+* «trimmer»,  
 * naviguer dans l'interface
 * modifier le volume,  
 * Faire un fade,
@@ -67,7 +67,7 @@ Importer du son (format de compression sonore (mp3 aiff wav))
 <h2><span id="record">Enregistrer</span></h2>
 
 
-* Sélectionner la bonne pistes sonore  
+* Sélectionner la bonne piste sonore  
 <a href="../img/reaper_armRecOff.png " target="_blank">
  <img src="../img/reaper_armRecOff.png" alt="interface" width="50%" >
 </a>
@@ -88,7 +88,7 @@ Importer du son (format de compression sonore (mp3 aiff wav))
 ## [Mix](id:mix)
 juxtaposer plusieurs sons sur plusieurs pistes
 Panoramiser
-Le principe des effets  (filtre,  compression,  reverb)
+Le principe des effets  (filtre,  compression,  réverbération)
 
 * Filtre de fréquences (reaEQ)
 
