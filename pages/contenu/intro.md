@@ -8,4 +8,4 @@ subtitle : pourquoi le montage sonore
 * Poser l'ambiance
 * Structurer la Temporalité
 * Développer l'expérience
-* Forger l'émotions
+* Forger l'émotion

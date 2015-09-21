@@ -8,12 +8,12 @@ subtitle : Traitement numérique du son
 	* Fréquence d'échantillonnage  (hertz)
 		* 8000 Hz (qualité téléphone cellulaire)
 		* 44100 Hz (qualité CD, web)
-		* 48000 Hz (qualité enregistrement professionnel)
+		* 48000 Hz (qualité enregistrement professionnelle)
 		* 96000 Hz (audiophile)
 	* Profondeur de l'échantillonne (bits)
 		* règle générale,  16 bits c'est compatible et suffisant  
 ![échantillonnage](../img/Echantillonnages_sinus.png)
- [Fréquence d'échantillonnage : Wikipedia ](http://fr.wikipedia.org/wiki/Fréquence_d'échantillonnage)
+ [Fréquence d'échantillonnage : Wikipédia ](http://fr.wikipedia.org/wiki/Fréquence_d'échantillonnage)
 
 
 
@@ -47,7 +47,7 @@ subtitle : Traitement numérique du son
 ### Choisir un outil pour ses fonctionnalités
 * Enregistrer du son
 * Importer des sons
-	* Compressé (MP3, aac, etc.)
+	* Compressé (MP3, AAC, etc.)
 	* Non compressé (wav, aif, etc.)
 * Convertir des formats de compression
 * Segmenter, déplacer des morceaux

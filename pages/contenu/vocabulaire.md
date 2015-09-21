@@ -50,7 +50,7 @@ Hauteur du son (pitch/note)
 	![sommeDesFrequences](../img/reaper_audioSum.png)
 
 ### Timbre
-Couleurs, sonorité, dimmension qualitative du son.
+Couleurs, sonorité, dimension qualitative du son.
 
 * outil de visualisation : le sonogramme (Fréquences/Temps)
 * exemple 1 : Sonogramme d'une voix   «cherokee» )  
@@ -104,7 +104,7 @@ Stéréophonie
   * exemple : la sirène
 <br> <audio controls><source src="../mp3/31920__jobro__doppler-siren.mp3" type="audio/mpeg"></audio>
 	![Stéréo](../img/doppler-siren_stereoWaveForm.png)
-	source sonore : http://www.freesound.org/people/jobro/sounds/31920/		
+	Source sonore : http://www.freesound.org/people/jobro/sounds/31920/		
 
 
 ### Dynamique et Saturation

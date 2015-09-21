@@ -10,7 +10,7 @@ http://www.ocenaudio.com.br
 
 Démo :
 
-  * ouvrir un fichier
+  * Ouvrir un fichier
   * Traiter
     * Copier/coller
     * Couper/coller
