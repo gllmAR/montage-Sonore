@@ -6,7 +6,12 @@ subtitle : Traitement numérique du son
 
 * Échantillonnage
 	* Fréquence d'échantillonnage  (hertz)
+		* 8000 Hz (qualité téléphone cellulaire)
+		* 44100 Hz (qualité CD, web)
+		* 48000 Hz (qualité enregistrement professionnel)
+		* 96000 Hz (audiophile)
 	* Profondeur de l'échantillonne (bits)
+		* règle générale,  16 bits c'est compatible et suffisant  
 ![échantillonnage](../img/Echantillonnages_sinus.png)
  [Fréquence d'échantillonnage : Wikipedia ](http://fr.wikipedia.org/wiki/Fréquence_d'échantillonnage)
 
