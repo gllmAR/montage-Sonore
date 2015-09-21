@@ -67,7 +67,6 @@ Your browser does not support the audio element.
   <source src="../mp3/jongly.mp3" type="audio/mpeg">
   <source src="../ogg/jongly.ogg" type="audio/ogg">
 Your browser does not support the audio element. </audio>
-
 	* arythmie
 <br>
 <audio controls>
