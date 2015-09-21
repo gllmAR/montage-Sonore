@@ -57,16 +57,18 @@ Your browser does not support the audio element.
 
 
 * Rythme/ arythmie
-	* Rythme <br>
+	* Rythme
+<br>
 <audio controls>
-    <source src="../mp3/jongly.mp3" type="audio/mpeg">
-    <source src="../ogg/jongly.ogg" type="audio/ogg">
+  <source src="../mp3/jongly.mp3" type="audio/mpeg">
+  <source src="../ogg/jongly.ogg" type="audio/ogg">
 Your browser does not support the audio element. </audio>
 
-	* arythmie <br>
+	* arythmie
+<br>
 <audio controls>
-    <source src="../mp3/rainstick.mp3" type="audio/mpeg">
-    <source src="../ogg/rainstick.ogg" type="audio/ogg">
+  <source src="../mp3/rainstick.mp3" type="audio/mpeg">
+  <source src="../ogg/rainstick.ogg" type="audio/ogg">
 Your browser does not support the audio element. </audio>
 
 

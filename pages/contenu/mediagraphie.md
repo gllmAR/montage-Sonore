@@ -24,3 +24,9 @@ subtitle : mediagraphie
 
 	* La modélisation des connaissances dans le montage son au cinéma, Jeanne Delplancq
 [http://www.ens-louis-lumiere.fr/fileadmin/pdf/memoires09/smem09delplancq.pdf](http://www.ens-louis-lumiere.fr/fileadmin/pdf/memoires09/smem09delplancq.pdf)
+
+* instruments online :
+http://www.bgfl.org/bgfl/custom/resources_ftp/client_ftp/ks2/music/piano/organ.htm
+
+* beaucoup d'instruments online :
+http://www.hongkiat.com/blog/virtual-instrument-web-browser/
