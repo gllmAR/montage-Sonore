@@ -55,6 +55,7 @@ Your browser does not support the audio element.
     <source src="../ogg/440+880+1760.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
+</br>
 
 	![timbre](../img/son-TImbre.jpg)
 
@@ -73,7 +74,7 @@ Your browser does not support the audio element. </audio>
   <source src="../mp3/rainstick.mp3" type="audio/mpeg">
   <source src="../ogg/rainstick.ogg" type="audio/ogg">
 Your browser does not support the audio element. </audio>
-
+</br>
 
 * Spatialisation (Direction /provenance)
 	* Stéréophonie
@@ -83,12 +84,14 @@ Your browser does not support the audio element. </audio>
 		    <source src="../ogg/rainstick.ogg" type="audio/ogg">
 		Your browser does not support the audio element.
 		</audio>
+		</br>
 		* Avec Panoramisation
 		<br> <audio controls>
 				<source src="../mp3/rainstickPan.mp3" type="audio/mpeg">
 				<source src="../ogg/rainstickPan.ogg" type="audio/ogg">
 			Your browser does not support the audio element.
 		</audio>
+		</br>
 
 	* Effet Doppler (phase+pitch p/r temps = impression de déplacement)
 		* exemple : la sirène
@@ -96,6 +99,7 @@ Your browser does not support the audio element. </audio>
 		<source src="../mp3/31920__jobro__doppler-siren.mp3" type="audio/mpeg">
 		http://www.freesound.org/people/jobro/sounds/31920/
 	</audio>
+	</br>
 
 
 
