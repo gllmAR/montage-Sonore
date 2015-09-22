@@ -117,6 +117,6 @@ Stéréophonie
 ### Pour aller plus loin
   * [http://fr.wikipedia.org/wiki/Psychoacoustique](http://fr.wikipedia.org/wiki/Psychoacoustique)
   * [https://fr.wikipedia.org/wiki/Son_(physique)](https://goo.gl/rsymhM)
-  * [https://books.google.fr/books?id=n6VrGMyYtkkC&pg=PA115&hl=fr&source=gbs_toc_r&cad=3#v=onepage&q&f=false](https://books.google.fr/books?id=n6VrGMyYtkkC&pg=PA115&hl=fr&source=gbs_toc_r&cad=3#v=onepage&q&f=false)
+  * [Audio : Par Mario Rossi](https://books.google.fr/books?id=n6VrGMyYtkkC&pg=PA115&hl=fr&source=gbs_toc_r&cad=3#v=onepage&q&f=false)
   * [https://fr.wikipedia.org/wiki/Effet_Doppler](https://fr.wikipedia.org/wiki/Effet_Doppler)
   * [https://fr.wikipedia.org/wiki/Acoustique](https://fr.wikipedia.org/wiki/Acoustique)
