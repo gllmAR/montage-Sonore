@@ -33,41 +33,27 @@ subtitle : Ableton Live et Max4 Live
   * pitch/vélocité
   * durée ...
   * midichannel
-  * [patchs/sortieMidi.maxpat](../patchs/sortieMidi.maxpat)
+  * [patches/sortieMidi.maxpat](../patches/sortieMidi.maxpat)
 * control change (CC)
   * 0 -127 (7 bits)
     * CTLIN / CTLOUT
+    * [patches/sortieCC.maxpat](../patches/sortieCC.maxpat)
   * 0 - 16383 (14 bits)
     * [patches/14bitMidiCC.maxpat](../patches/14bitMidiCC.maxpat)
     * [forum Max](https://cycling74.com/forums/topic/14bit-cc-to-ableton/)
     * xbendin / xbendout (14 bits aussi)
 
+#### Instrument M4l avec poly et poly~
+requiert les deux fichier dans le même dossier
 
-#### OSC (open sound control)
-* adresse / port
-  * UDPsend pour envoyer
-  * UDPreceive pour recevoir   
-
-* Interapplication
-  * (localHost:port soit 127.0.0.1:9999 )
-  * interordinateur
-    * unicast = abc.def.uvw.xyz:port
-    * broadcast= abc.def.uvw.255:port
-
-* tuio (est un protocole de formatage OSC)
-  * [http://www.tuio.org](http://www.tuio.org)
-  * [http://www.tuio.org/?software](http://www.tuio.org/?software)
+* [instrument](../patches/m4l-synth.amxd)
+* [FichierPoly](../patches/polySynth.maxpat)
 
 #### Audio ...
 * exemple de l'envelope follower
   * [patches/EnvelopeFollower.amxd](../patches/EnvelopeFollower.amxd)
 * timecode (smpte~)
 
-#### Instrument M4l avec poly et poly~
-requiert les deux fichier dans le même dossier
-
-* [instrument](../patches/m4l-Instrument.amxd)
-* [FichierPoly](../patches/adsr-synth.maxpat)
 
 
 #### Proposition d'exercices :
@@ -98,6 +84,23 @@ requiert les deux fichier dans le même dossier
   * Générateur (master)
     *  [smpte~](https://cycling74.com/toolbox/smpte/#.VhKbH7TY7Qc)
   * écouteur (slave)
+
+
+  #### OSC (open sound control)
+  * adresse / port
+    * UDPsend pour envoyer
+    * UDPreceive pour recevoir   
+
+  * Interapplication
+    * (localHost:port soit 127.0.0.1:9999 )
+    * interordinateur
+      * unicast = abc.def.uvw.xyz:port
+      * broadcast= abc.def.uvw.255:port
+
+  * tuio (est un protocole de formatage OSC)
+    * [http://www.tuio.org](http://www.tuio.org)
+    * [http://www.tuio.org/?software](http://www.tuio.org/?software)
+
 
 * Rewired
   * slave
