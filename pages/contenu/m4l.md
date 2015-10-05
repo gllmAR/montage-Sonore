@@ -43,7 +43,10 @@ subtitle : Ableton Live et Max4 Live
     * [forum Max](https://cycling74.com/forums/topic/14bit-cc-to-ableton/)
     * xbendin / xbendout (14 bits aussi)
 
-#### Instrument M4l avec poly et poly~
+* Sur OSX : activer le IAC Driver dans l'application «audio midi setup»  chercher la fenêtre «midi studio» et double cliquer sur le IAC Driver,  s'assurer que «device is online» est checked»
+![../img/live_midi-IAC.png](../img/live_midi-IAC.png)
+
+#### Instrument M4l poly~
 requiert les deux fichier dans le même dossier
 
 * [instrument](../patches/m4l-synth.amxd)
