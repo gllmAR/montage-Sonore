@@ -63,9 +63,13 @@ subtitle : Ableton Live et Max4 Live
   * [patches/EnvelopeFollower.amxd](../patches/EnvelopeFollower.amxd)
 * timecode (smpte~)
 
-#### instrument M4l avec poly
+#### Instrument M4l avec poly et poly~
+requiert les deux fichier dans le même dossier
+
 * [instrument](../patches/m4l-Instrument.amxd)
-* [poly](../patches/adsr-synth.maxpat)
+* [FichierPoly](../patches/adsr-synth.maxpat)
+
+
 #### Proposition d'exercices :
 
 * Créer une composition midi qui influence des paramètres visibles dans Max ( par exemple un slider )
