@@ -2,7 +2,7 @@
 layout: page
 subtitle: Introduction au montage sonore
 ---
-L’objectif de cette formation est de familiariser les participantes et les participants aux bases du montage sonore numérique.
+L’objectif de cette formation est de familiariser les participantes et les participants au montage sonore numérique.
 
 Pour ce faire seront abordés les thèmes suivants
 
@@ -12,5 +12,6 @@ Pour ce faire seront abordés les thèmes suivants
 * [Le son numérique, supports et limite](pages/contenu/sonNumerique.html)
 * [Traiter un échantillon avec ocenaudio](pages/contenu/ocenaudio.html)
 * [Edition multipiste avec Audacity](pages/contenu/audacity.html)
-* [Techniques de montage avancé avec Reaper](pages/contenu/reaper.html)
+* [Techniques de montage avec Reaper](pages/contenu/reaper.html)
+* [Ableton Live et Max4Live](pages/contenu/m4l.html)
 * [Médiagraphie](pages/contenu/mediagraphie.html)
