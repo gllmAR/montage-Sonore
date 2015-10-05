@@ -100,11 +100,13 @@ subtitle : Ableton Live et Max4 Live
 
 
 Protocole de contrôle de lumière  
+
 * DMX
   * Enttec-USB
   * [MAX-USB_DMX](https://github.com/gllmAR/MAX-USB_DMX)
 * artnet
   * [the impersonal Stereo](http://www.theimpersonalstereo.com/software/maxmspjitter/)
+  *
 Pour aller plus loin
 
 * Show Networks and Control Systems:
