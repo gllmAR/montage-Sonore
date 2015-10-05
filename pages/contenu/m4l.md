@@ -7,8 +7,8 @@ subtitle : Ableton Live et Max4 Live
 
 ## Ableton Live ?
 
-* clip launcher (changer de mode avec la touche TAB)
-* mode timeline
+* Clip launcher (changer de mode avec la touche TAB)
+* Mode timeline
 * Automation d'un segment de temps / automation d'un clip
 * Midi Mapping / Mapping de touches
 * Outil de composition
@@ -55,14 +55,17 @@ subtitle : Ableton Live et Max4 Live
     * broadcast= abc.def.uvw.255:port
 
 * tuio (est un protocole de formatage OSC)
-        * [http://www.tuio.org](http://www.tuio.org)
-        * [http://www.tuio.org/?software](http://www.tuio.org/?software)
+  * [http://www.tuio.org](http://www.tuio.org)
+  * [http://www.tuio.org/?software](http://www.tuio.org/?software)
 
 #### Audio ...
 * exemple de l'envelope follower
   * [patches/EnvelopeFollower.amxd](../patches/EnvelopeFollower.amxd)
 * timecode (smpte~)
 
+#### instrument M4l avec poly
+* [instrument](../patches/m4l-Instrument.amxd)
+* [poly](../patches/adsr-synth.maxpat)
 #### Proposition d'exercices :
 
 * Créer une composition midi qui influence des paramètres visibles dans Max ( par exemple un slider )
